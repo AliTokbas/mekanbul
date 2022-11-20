@@ -1,4 +1,5 @@
 var mongoose=require("mongoose");
+//var dbURI = "mongodb://localhost/mekanbul";
 var dbURI = "mongodb+srv://Ali:A0a0A0a0@mekanbul.f1oyqju.mongodb.net/?retryWrites=true&w=majority";
 mongoose.connect(dbURI);
 function kapat(msg,callback){
@@ -28,3 +29,4 @@ mongoose.connection.on("error", function(){
     console.log(" Bağlantı hatası");
 }
 );
+require("./mekansema");
