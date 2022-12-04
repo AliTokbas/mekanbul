@@ -1,6 +1,6 @@
 const axios=require('axios');
 var apiSecenekleri ={
-    sunucu: "https://mekanbul5.alitokbas.repl.co",
+    sunucu: "https://mekanbul.alitokbas.repl.co",
     apiYolu:"/api/mekanlar/",
 };
 var express = require('express');
