@@ -1,6 +1,6 @@
 # MekanBul Rest Api Adresleri
 
-[Yakındaki Mekanlar Listeleme (Replit Link)](https://mekanbul.alitokbas.repl.co/?enlem=36&boylam=34)
+[Yakındaki Mekanlar Listeleme (Replit Link)](https://mekanbul.alitokbas.repl.co/?enlem=37.83226584629666&boylam=30.52473229878013)
 
 ----------------API TEST------------------
 
